@@ -1,0 +1,810 @@
+
+  [32m[1mVITE[22m v4.5.14[39m  [2mready in [0m[1m1516[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5173[22m/[39m
+[2m9:56:38 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/@fs/C:/Users/dell/Desktop/New folder (5)/src/components/Navbar.jsx[22m
+[2m9:58:45 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/@fs/C:/Users/dell/Desktop/New folder (5)/src/components/Navbar.jsx[22m
+[2m9:58:45 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "../assets/logo.png" from "src\components\Navbar.jsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/dell/Desktop/New folder (5)/src/components/Navbar.jsx[39m:2:17
+[33m  16 |  }
+  17 |  import React from "react";
+  18 |  import logo from "../assets/logo.png";
+     |                    ^
+  19 |  const Navbar = () => {
+  20 |    return /* @__PURE__ */ jsxDEV("nav", { className: "navbar glass", style: { position: "fixed", top: 0, left: 0, right: 0, zIndex: 1e3, padding: "1rem 0" }, children: /* @__PURE__ */ jsxDEV("div", { className: "container", style: { display: "flex", justifyContent: "space-between", alignItems: "center" }, children: [[39m
+      at formatError (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44066:46)
+      at TransformContext.error (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44062:19)
+      at normalizeUrl (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41845:33)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41999:47
+      at async Promise.all (index 4)
+      at async TransformContext.transform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41915:13)
+      at async Object.transform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44356:30)
+      at async loadAndTransform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:55088:29)
+      at async viteTransformMiddleware (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:64699:32)
+Failed to resolve import "../assets/logo.png" from "src\components\Navbar.jsx". Does the file exist?
+[2m9:59:25 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "../assets/logo.png" from "src\components\Navbar.jsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/dell/Desktop/New folder (5)/src/components/Navbar.jsx[39m:2:17
+[33m  16 |  }
+  17 |  import React from "react";
+  18 |  import logo from "../assets/logo.png";
+     |                    ^
+  19 |  const Navbar = () => {
+  20 |    return /* @__PURE__ */ jsxDEV("nav", { className: "navbar glass", style: { position: "fixed", top: 0, left: 0, right: 0, zIndex: 1e3, padding: "1rem 0" }, children: /* @__PURE__ */ jsxDEV("div", { className: "container", style: { display: "flex", justifyContent: "space-between", alignItems: "center" }, children: [[39m
+      at formatError (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44066:46)
+      at TransformContext.error (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44062:19)
+      at normalizeUrl (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41845:33)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41999:47
+      at async Promise.all (index 4)
+      at async TransformContext.transform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41915:13)
+      at async Object.transform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44356:30)
+      at async loadAndTransform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:55088:29)
+      at async viteTransformMiddleware (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:64699:32)
+[2m9:59:53 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "../assets/logo.png" from "src\components\Navbar.jsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/dell/Desktop/New folder (5)/src/components/Navbar.jsx[39m:2:17
+[33m  16 |  }
+  17 |  import React from "react";
+  18 |  import logo from "../assets/logo.png";
+     |                    ^
+  19 |  const Navbar = () => {
+  20 |    return /* @__PURE__ */ jsxDEV("nav", { className: "navbar glass", style: { position: "fixed", top: 0, left: 0, right: 0, zIndex: 1e3, padding: "1rem 0" }, children: /* @__PURE__ */ jsxDEV("div", { className: "container", style: { display: "flex", justifyContent: "space-between", alignItems: "center" }, children: [[39m
+      at formatError (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44066:46)
+      at TransformContext.error (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44062:19)
+      at normalizeUrl (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41845:33)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41999:47
+      at async Promise.all (index 4)
+      at async TransformContext.transform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41915:13)
+      at async Object.transform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44356:30)
+      at async loadAndTransform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:55088:29)
+      at async viteTransformMiddleware (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:64699:32)
+[2m10:00:13 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "../assets/logo.png" from "src\components\Navbar.jsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/dell/Desktop/New folder (5)/src/components/Navbar.jsx[39m:2:17
+[33m  16 |  }
+  17 |  import React from "react";
+  18 |  import logo from "../assets/logo.png";
+     |                    ^
+  19 |  const Navbar = () => {
+  20 |    return /* @__PURE__ */ jsxDEV("nav", { className: "navbar glass", style: { position: "fixed", top: 0, left: 0, right: 0, zIndex: 1e3, padding: "1rem 0" }, children: /* @__PURE__ */ jsxDEV("div", { className: "container", style: { display: "flex", justifyContent: "space-between", alignItems: "center" }, children: [[39m
+      at formatError (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44066:46)
+      at TransformContext.error (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44062:19)
+      at normalizeUrl (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41845:33)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41999:47
+      at async Promise.all (index 4)
+      at async TransformContext.transform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41915:13)
+      at async Object.transform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44356:30)
+      at async loadAndTransform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:55088:29)
+      at async viteTransformMiddleware (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:64699:32)
+[2m10:00:27 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "../assets/logo.png" from "src\components\Navbar.jsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/dell/Desktop/New folder (5)/src/components/Navbar.jsx[39m:2:17
+[33m  16 |  }
+  17 |  import React from "react";
+  18 |  import logo from "../assets/logo.png";
+     |                    ^
+  19 |  const Navbar = () => {
+  20 |    return /* @__PURE__ */ jsxDEV("nav", { className: "navbar glass", style: { position: "fixed", top: 0, left: 0, right: 0, zIndex: 1e3, padding: "1rem 0" }, children: /* @__PURE__ */ jsxDEV("div", { className: "container", style: { display: "flex", justifyContent: "space-between", alignItems: "center" }, children: [[39m
+      at formatError (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44066:46)
+      at TransformContext.error (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44062:19)
+      at normalizeUrl (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41845:33)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41999:47
+      at async Promise.all (index 4)
+      at async TransformContext.transform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41915:13)
+      at async Object.transform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44356:30)
+      at async loadAndTransform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:55088:29)
+      at async viteTransformMiddleware (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:64699:32)
+[2m10:00:50 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "../assets/logo.png" from "src\components\Navbar.jsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/dell/Desktop/New folder (5)/src/components/Navbar.jsx[39m:2:17
+[33m  16 |  }
+  17 |  import React from "react";
+  18 |  import logo from "../assets/logo.png";
+     |                    ^
+  19 |  const Navbar = () => {
+  20 |    return /* @__PURE__ */ jsxDEV("nav", { className: "navbar glass", style: { position: "fixed", top: 0, left: 0, right: 0, zIndex: 1e3, padding: "1rem 0" }, children: /* @__PURE__ */ jsxDEV("div", { className: "container", style: { display: "flex", justifyContent: "space-between", alignItems: "center" }, children: [[39m
+      at formatError (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44066:46)
+      at TransformContext.error (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44062:19)
+      at normalizeUrl (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41845:33)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41999:47
+      at async Promise.all (index 4)
+      at async TransformContext.transform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41915:13)
+      at async Object.transform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44356:30)
+      at async loadAndTransform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:55088:29)
+      at async viteTransformMiddleware (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:64699:32)
+[2m10:02:58 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "../assets/logo.png" from "src\components\Navbar.jsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/dell/Desktop/New folder (5)/src/components/Navbar.jsx[39m:2:17
+[33m  16 |  }
+  17 |  import React from "react";
+  18 |  import logo from "../assets/logo.png";
+     |                    ^
+  19 |  const Navbar = () => {
+  20 |    return /* @__PURE__ */ jsxDEV("nav", { className: "navbar glass", style: { position: "fixed", top: 0, left: 0, right: 0, zIndex: 1e3, padding: "1rem 0" }, children: /* @__PURE__ */ jsxDEV("div", { className: "container", style: { display: "flex", justifyContent: "space-between", alignItems: "center" }, children: [[39m
+      at formatError (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44066:46)
+      at TransformContext.error (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44062:19)
+      at normalizeUrl (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41845:33)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41999:47
+      at async Promise.all (index 4)
+      at async TransformContext.transform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41915:13)
+      at async Object.transform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44356:30)
+      at async loadAndTransform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:55088:29)
+      at async viteTransformMiddleware (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:64699:32)
+[2m10:03:45 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "../assets/logo.png" from "src\components\Navbar.jsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/dell/Desktop/New folder (5)/src/components/Navbar.jsx[39m:2:17
+[33m  16 |  }
+  17 |  import React from "react";
+  18 |  import logo from "../assets/logo.png";
+     |                    ^
+  19 |  const Navbar = () => {
+  20 |    return /* @__PURE__ */ jsxDEV("nav", { className: "navbar glass", style: { position: "fixed", top: 0, left: 0, right: 0, zIndex: 1e3, padding: "1rem 0" }, children: /* @__PURE__ */ jsxDEV("div", { className: "container", style: { display: "flex", justifyContent: "space-between", alignItems: "center" }, children: [[39m
+      at formatError (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44066:46)
+      at TransformContext.error (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44062:19)
+      at normalizeUrl (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41845:33)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41999:47
+      at async Promise.all (index 4)
+      at async TransformContext.transform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41915:13)
+      at async Object.transform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44356:30)
+      at async loadAndTransform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:55088:29)
+      at async viteTransformMiddleware (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:64699:32)
+[2m10:05:53 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/@fs/C:/Users/dell/Desktop/New folder (5)/src/App.jsx[22m
+[2m10:11:08 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/@fs/C:/Users/dell/Desktop/New folder (5)/src/components/Navbar.jsx[22m
+[2m10:11:17 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/@fs/C:/Users/dell/Desktop/New folder (5)/src/components/Navbar.jsx[22m
+[2m10:15:40 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/@fs/C:/Users/dell/Desktop/New folder (5)/src/components/Navbar.jsx[22m
+[2m10:15:50 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/@fs/C:/Users/dell/Desktop/New folder (5)/src/components/Navbar.jsx[22m
+[2m10:18:34 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/@fs/C:/Users/dell/Desktop/New folder (5)/src/components/Navbar.jsx[22m
+[2m10:18:44 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/@fs/C:/Users/dell/Desktop/New folder (5)/src/components/Navbar.jsx[22m
+[2m10:41:52 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/@fs/C:/Users/dell/Desktop/New folder (5)/src/components/Navbar.jsx[22m
+[2m10:41:52 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "../assets/logo.png" from "src\components\Navbar.jsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/dell/Desktop/New folder (5)/src/components/Navbar.jsx[39m:2:17
+[33m  16 |  }
+  17 |  import React from "react";
+  18 |  import logo from "../assets/logo.png";
+     |                    ^
+  19 |  const Navbar = () => {
+  20 |    return /* @__PURE__ */ jsxDEV("nav", { className: "navbar glass", style: { position: "fixed", top: 0, left: 0, right: 0, zIndex: 1e3, padding: "1rem 0" }, children: /* @__PURE__ */ jsxDEV("div", { className: "container", style: { display: "flex", justifyContent: "space-between", alignItems: "center" }, children: [[39m
+      at formatError (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44066:46)
+      at TransformContext.error (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44062:19)
+      at normalizeUrl (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41845:33)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41999:47
+      at async Promise.all (index 4)
+      at async TransformContext.transform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41915:13)
+      at async Object.transform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44356:30)
+      at async loadAndTransform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:55088:29)
+      at async viteTransformMiddleware (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:64699:32)
+[2m10:41:52 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "../assets/logo.png" from "src\components\Navbar.jsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/dell/Desktop/New folder (5)/src/components/Navbar.jsx[39m:2:17
+[33m  16 |  }
+  17 |  import React from "react";
+  18 |  import logo from "../assets/logo.png";
+     |                    ^
+  19 |  const Navbar = () => {
+  20 |    return /* @__PURE__ */ jsxDEV("nav", { className: "navbar glass", style: { position: "fixed", top: 0, left: 0, right: 0, zIndex: 1e3, padding: "1rem 0" }, children: /* @__PURE__ */ jsxDEV("div", { className: "container", style: { display: "flex", justifyContent: "space-between", alignItems: "center" }, children: [[39m
+      at formatError (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44066:46)
+      at TransformContext.error (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44062:19)
+      at normalizeUrl (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41845:33)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41999:47
+      at async Promise.all (index 4)
+      at async TransformContext.transform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41915:13)
+      at async Object.transform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44356:30)
+      at async loadAndTransform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:55088:29)
+      at async viteTransformMiddleware (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:64699:32)
+[2m10:41:52 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "../assets/logo.png" from "src\components\Navbar.jsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/dell/Desktop/New folder (5)/src/components/Navbar.jsx[39m:2:17
+[33m  16 |  }
+  17 |  import React from "react";
+  18 |  import logo from "../assets/logo.png";
+     |                    ^
+  19 |  const Navbar = () => {
+  20 |    return /* @__PURE__ */ jsxDEV("nav", { className: "navbar glass", style: { position: "fixed", top: 0, left: 0, right: 0, zIndex: 1e3, padding: "1rem 0" }, children: /* @__PURE__ */ jsxDEV("div", { className: "container", style: { display: "flex", justifyContent: "space-between", alignItems: "center" }, children: [[39m
+      at formatError (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44066:46)
+      at TransformContext.error (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44062:19)
+      at normalizeUrl (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41845:33)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41999:47
+      at async Promise.all (index 4)
+      at async TransformContext.transform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41915:13)
+      at async Object.transform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44356:30)
+      at async loadAndTransform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:55088:29)
+      at async viteTransformMiddleware (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:64699:32)
+Failed to resolve import "../assets/logo.png" from "src\components\Navbar.jsx". Does the file exist?
+[2m10:43:19 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "../assets/logo.png" from "src\components\Navbar.jsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/dell/Desktop/New folder (5)/src/components/Navbar.jsx[39m:2:17
+[33m  16 |  }
+  17 |  import React from "react";
+  18 |  import logo from "../assets/logo.png";
+     |                    ^
+  19 |  const Navbar = () => {
+  20 |    return /* @__PURE__ */ jsxDEV("nav", { className: "navbar glass", style: { position: "fixed", top: 0, left: 0, right: 0, zIndex: 1e3, padding: "1rem 0" }, children: /* @__PURE__ */ jsxDEV("div", { className: "container", style: { display: "flex", justifyContent: "space-between", alignItems: "center" }, children: [[39m
+      at formatError (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44066:46)
+      at TransformContext.error (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44062:19)
+      at normalizeUrl (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41845:33)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41999:47
+      at async Promise.all (index 4)
+      at async TransformContext.transform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41915:13)
+      at async Object.transform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44356:30)
+      at async loadAndTransform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:55088:29)
+      at async viteTransformMiddleware (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:64699:32)
+[2m10:44:07 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "../assets/logo.png" from "src\components\Navbar.jsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/dell/Desktop/New folder (5)/src/components/Navbar.jsx[39m:2:17
+[33m  16 |  }
+  17 |  import React from "react";
+  18 |  import logo from "../assets/logo.png";
+     |                    ^
+  19 |  const Navbar = () => {
+  20 |    return /* @__PURE__ */ jsxDEV("nav", { className: "navbar glass", style: { position: "fixed", top: 0, left: 0, right: 0, zIndex: 1e3, padding: "1rem 0" }, children: /* @__PURE__ */ jsxDEV("div", { className: "container", style: { display: "flex", justifyContent: "space-between", alignItems: "center" }, children: [[39m
+      at formatError (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44066:46)
+      at TransformContext.error (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44062:19)
+      at normalizeUrl (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41845:33)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41999:47
+      at async Promise.all (index 4)
+      at async TransformContext.transform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41915:13)
+      at async Object.transform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44356:30)
+      at async loadAndTransform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:55088:29)
+      at async viteTransformMiddleware (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:64699:32)
+[2m10:45:33 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "../assets/logo.png" from "src\components\Navbar.jsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/dell/Desktop/New folder (5)/src/components/Navbar.jsx[39m:2:17
+[33m  16 |  }
+  17 |  import React from "react";
+  18 |  import logo from "../assets/logo.png";
+     |                    ^
+  19 |  const Navbar = () => {
+  20 |    return /* @__PURE__ */ jsxDEV("nav", { className: "navbar glass", style: { position: "fixed", top: 0, left: 0, right: 0, zIndex: 1e3, padding: "1rem 0" }, children: /* @__PURE__ */ jsxDEV("div", { className: "container", style: { display: "flex", justifyContent: "space-between", alignItems: "center" }, children: [[39m
+      at formatError (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44066:46)
+      at TransformContext.error (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44062:19)
+      at normalizeUrl (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41845:33)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41999:47
+      at async Promise.all (index 4)
+      at async TransformContext.transform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41915:13)
+      at async Object.transform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44356:30)
+      at async loadAndTransform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:55088:29)
+      at async viteTransformMiddleware (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:64699:32)
+[2m10:45:45 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "../assets/logo.png" from "src\components\Navbar.jsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mC:/Users/dell/Desktop/New folder (5)/src/components/Navbar.jsx[39m:2:17
+[33m  16 |  }
+  17 |  import React from "react";
+  18 |  import logo from "../assets/logo.png";
+     |                    ^
+  19 |  const Navbar = () => {
+  20 |    return /* @__PURE__ */ jsxDEV("nav", { className: "navbar glass", style: { position: "fixed", top: 0, left: 0, right: 0, zIndex: 1e3, padding: "1rem 0" }, children: /* @__PURE__ */ jsxDEV("div", { className: "container", style: { display: "flex", justifyContent: "space-between", alignItems: "center" }, children: [[39m
+      at formatError (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44066:46)
+      at TransformContext.error (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44062:19)
+      at normalizeUrl (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41845:33)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41999:47
+      at async Promise.all (index 4)
+      at async TransformContext.transform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:41915:13)
+      at async Object.transform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:44356:30)
+      at async loadAndTransform (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:55088:29)
+      at async viteTransformMiddleware (file:///c:/Users/dell/Desktop/New%20folder%20(5)/node_modules/vite/dist/node/chunks/dep-827b23df.js:64699:32)
+[2m10:56:07 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/@fs/C:/Users/dell/Desktop/New folder (5)/src/App.jsx[22m
+C:\Users\dell\Desktop\New folder (5)\src\components\Navbar.jsx: Expected corresponding JSX closing tag for <nav>. (20:6)
+
+[0m [90m 18 |[39m           [33m<[39m[33m/[39m[33ma[39m[33m>[39m
+ [90m 19 |[39m         [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m
+[31m[1m>[22m[39m[90m 20 |[39m       [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m
+ [90m    |[39m       [31m[1m^[22m[39m
+ [90m 21 |[39m     [33m<[39m[33m/[39m[33mnav[39m[33m>[39m
+ [90m 22 |[39m   )
+ [90m 23 |[39m }[0m
+[2m10:56:08 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\dell\Desktop\New folder (5)\src\components\Navbar.jsx: Expected corresponding JSX closing tag for <nav>. (20:6)
+
+[0m [90m 18 |[31m           [33m<[31m[33m/[31m[33ma[31m[33m>[31m
+ [90m 19 |[31m         [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+[31m[1m>[22m[31m[90m 20 |[31m       [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+ [90m    |[31m       [31m[1m^[22m[31m
+ [90m 21 |[31m     [33m<[31m[33m/[31m[33mnav[31m[33m>[31m
+ [90m 22 |[31m   )
+ [90m 23 |[31m }[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/dell/Desktop/New folder (5)/src/components/Navbar.jsx[39m:20:6
+[33m  18 |            </a>
+  19 |          </div>
+  20 |        </div>
+     |        ^
+  21 |      </nav>
+  22 |    )[39m
+      at constructor (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:365:19)
+      at JSXParserMixin.raise (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:6599:19)
+      at JSXParserMixin.jsxParseElementAt (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:4727:16)
+      at JSXParserMixin.jsxParseElement (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:4749:17)
+      at JSXParserMixin.parseExprAtom (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:4759:19)
+      at JSXParserMixin.parseExprSubscripts (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11081:23)
+      at JSXParserMixin.parseUpdate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11066:21)
+      at JSXParserMixin.parseMaybeUnary (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11046:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10899:61)
+      at JSXParserMixin.parseExprOps (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10904:23)
+      at JSXParserMixin.parseMaybeConditional (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10881:23)
+      at JSXParserMixin.parseMaybeAssign (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10831:21)
+      at c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10800:39
+      at JSXParserMixin.allowInAnd (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12426:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10800:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12493:17)
+      at JSXParserMixin.parseParenAndDistinguishExpression (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11675:28)
+      at JSXParserMixin.parseExprAtom (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11331:23)
+      at JSXParserMixin.parseExprAtom (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:4764:20)
+      at JSXParserMixin.parseExprSubscripts (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11081:23)
+      at JSXParserMixin.parseUpdate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11066:21)
+      at JSXParserMixin.parseMaybeUnary (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11046:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10899:61)
+      at JSXParserMixin.parseExprOps (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10904:23)
+      at JSXParserMixin.parseMaybeConditional (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10881:23)
+      at JSXParserMixin.parseMaybeAssign (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10831:21)
+      at JSXParserMixin.parseExpressionBase (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10784:23)
+      at c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10780:39
+      at JSXParserMixin.allowInAnd (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12421:16)
+      at JSXParserMixin.parseExpression (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10780:17)
+      at JSXParserMixin.parseReturnStatement (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:13142:28)
+      at JSXParserMixin.parseStatementContent (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12798:21)
+      at JSXParserMixin.parseStatementLike (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12767:17)
+      at JSXParserMixin.parseStatementListItem (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12747:17)
+      at JSXParserMixin.parseBlockOrModuleBlockBody (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:13316:61)
+      at JSXParserMixin.parseBlockBody (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:13309:10)
+      at JSXParserMixin.parseBlock (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:13297:10)
+      at JSXParserMixin.parseFunctionBody (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12100:24)
+      at JSXParserMixin.parseArrowExpression (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12075:10)
+      at JSXParserMixin.parseParenAndDistinguishExpression (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11687:12)
+      at JSXParserMixin.parseExprAtom (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11331:23)
+      at JSXParserMixin.parseExprAtom (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:4764:20)
+      at JSXParserMixin.parseExprSubscripts (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11081:23)
+      at JSXParserMixin.parseUpdate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11066:21)
+      at JSXParserMixin.parseMaybeUnary (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11046:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10899:61)
+      at JSXParserMixin.parseExprOps (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10904:23)
+      at JSXParserMixin.parseMaybeConditional (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10881:23)
+      at JSXParserMixin.parseMaybeAssign (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10831:21)
+      at c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10800:39
+C:\Users\dell\Desktop\New folder (5)\src\components\Navbar.jsx: Expected corresponding JSX closing tag for <nav>. (20:6)
+
+[0m [90m 18 |[39m           [33m<[39m[33m/[39m[33ma[39m[33m>[39m
+ [90m 19 |[39m         [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m
+[31m[1m>[22m[39m[90m 20 |[39m       [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m
+ [90m    |[39m       [31m[1m^[22m[39m
+ [90m 21 |[39m     [33m<[39m[33m/[39m[33mnav[39m[33m>[39m
+ [90m 22 |[39m   )
+ [90m 23 |[39m }[0m
+[2m10:56:08 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\dell\Desktop\New folder (5)\src\components\Navbar.jsx: Expected corresponding JSX closing tag for <nav>. (20:6)
+
+[0m [90m 18 |[31m           [33m<[31m[33m/[31m[33ma[31m[33m>[31m
+ [90m 19 |[31m         [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+[31m[1m>[22m[31m[90m 20 |[31m       [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+ [90m    |[31m       [31m[1m^[22m[31m
+ [90m 21 |[31m     [33m<[31m[33m/[31m[33mnav[31m[33m>[31m
+ [90m 22 |[31m   )
+ [90m 23 |[31m }[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/dell/Desktop/New folder (5)/src/components/Navbar.jsx[39m:20:6
+[33m  18 |            </a>
+  19 |          </div>
+  20 |        </div>
+     |        ^
+  21 |      </nav>
+  22 |    )[39m
+      at constructor (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:365:19)
+      at JSXParserMixin.raise (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:6599:19)
+      at JSXParserMixin.jsxParseElementAt (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:4727:16)
+      at JSXParserMixin.jsxParseElement (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:4749:17)
+      at JSXParserMixin.parseExprAtom (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:4759:19)
+      at JSXParserMixin.parseExprSubscripts (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11081:23)
+      at JSXParserMixin.parseUpdate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11066:21)
+      at JSXParserMixin.parseMaybeUnary (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11046:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10899:61)
+      at JSXParserMixin.parseExprOps (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10904:23)
+      at JSXParserMixin.parseMaybeConditional (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10881:23)
+      at JSXParserMixin.parseMaybeAssign (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10831:21)
+      at c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10800:39
+      at JSXParserMixin.allowInAnd (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12426:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10800:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12493:17)
+      at JSXParserMixin.parseParenAndDistinguishExpression (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11675:28)
+      at JSXParserMixin.parseExprAtom (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11331:23)
+      at JSXParserMixin.parseExprAtom (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:4764:20)
+      at JSXParserMixin.parseExprSubscripts (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11081:23)
+      at JSXParserMixin.parseUpdate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11066:21)
+      at JSXParserMixin.parseMaybeUnary (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11046:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10899:61)
+      at JSXParserMixin.parseExprOps (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10904:23)
+      at JSXParserMixin.parseMaybeConditional (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10881:23)
+      at JSXParserMixin.parseMaybeAssign (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10831:21)
+      at JSXParserMixin.parseExpressionBase (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10784:23)
+      at c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10780:39
+      at JSXParserMixin.allowInAnd (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12421:16)
+      at JSXParserMixin.parseExpression (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10780:17)
+      at JSXParserMixin.parseReturnStatement (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:13142:28)
+      at JSXParserMixin.parseStatementContent (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12798:21)
+      at JSXParserMixin.parseStatementLike (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12767:17)
+      at JSXParserMixin.parseStatementListItem (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12747:17)
+      at JSXParserMixin.parseBlockOrModuleBlockBody (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:13316:61)
+      at JSXParserMixin.parseBlockBody (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:13309:10)
+      at JSXParserMixin.parseBlock (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:13297:10)
+      at JSXParserMixin.parseFunctionBody (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12100:24)
+      at JSXParserMixin.parseArrowExpression (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12075:10)
+      at JSXParserMixin.parseParenAndDistinguishExpression (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11687:12)
+      at JSXParserMixin.parseExprAtom (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11331:23)
+      at JSXParserMixin.parseExprAtom (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:4764:20)
+      at JSXParserMixin.parseExprSubscripts (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11081:23)
+      at JSXParserMixin.parseUpdate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11066:21)
+      at JSXParserMixin.parseMaybeUnary (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11046:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10899:61)
+      at JSXParserMixin.parseExprOps (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10904:23)
+      at JSXParserMixin.parseMaybeConditional (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10881:23)
+      at JSXParserMixin.parseMaybeAssign (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10831:21)
+      at c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10800:39
+[2m10:56:08 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\dell\Desktop\New folder (5)\src\components\Navbar.jsx: Expected corresponding JSX closing tag for <nav>. (20:6)
+
+[0m [90m 18 |[31m           [33m<[31m[33m/[31m[33ma[31m[33m>[31m
+ [90m 19 |[31m         [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+[31m[1m>[22m[31m[90m 20 |[31m       [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+ [90m    |[31m       [31m[1m^[22m[31m
+ [90m 21 |[31m     [33m<[31m[33m/[31m[33mnav[31m[33m>[31m
+ [90m 22 |[31m   )
+ [90m 23 |[31m }[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/dell/Desktop/New folder (5)/src/components/Navbar.jsx[39m:20:6
+[33m  18 |            </a>
+  19 |          </div>
+  20 |        </div>
+     |        ^
+  21 |      </nav>
+  22 |    )[39m
+      at constructor (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:365:19)
+      at JSXParserMixin.raise (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:6599:19)
+      at JSXParserMixin.jsxParseElementAt (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:4727:16)
+      at JSXParserMixin.jsxParseElement (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:4749:17)
+      at JSXParserMixin.parseExprAtom (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:4759:19)
+      at JSXParserMixin.parseExprSubscripts (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11081:23)
+      at JSXParserMixin.parseUpdate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11066:21)
+      at JSXParserMixin.parseMaybeUnary (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11046:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10899:61)
+      at JSXParserMixin.parseExprOps (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10904:23)
+      at JSXParserMixin.parseMaybeConditional (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10881:23)
+      at JSXParserMixin.parseMaybeAssign (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10831:21)
+      at c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10800:39
+      at JSXParserMixin.allowInAnd (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12426:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10800:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12493:17)
+      at JSXParserMixin.parseParenAndDistinguishExpression (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11675:28)
+      at JSXParserMixin.parseExprAtom (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11331:23)
+      at JSXParserMixin.parseExprAtom (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:4764:20)
+      at JSXParserMixin.parseExprSubscripts (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11081:23)
+      at JSXParserMixin.parseUpdate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11066:21)
+      at JSXParserMixin.parseMaybeUnary (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11046:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10899:61)
+      at JSXParserMixin.parseExprOps (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10904:23)
+      at JSXParserMixin.parseMaybeConditional (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10881:23)
+      at JSXParserMixin.parseMaybeAssign (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10831:21)
+      at JSXParserMixin.parseExpressionBase (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10784:23)
+      at c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10780:39
+      at JSXParserMixin.allowInAnd (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12421:16)
+      at JSXParserMixin.parseExpression (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10780:17)
+      at JSXParserMixin.parseReturnStatement (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:13142:28)
+      at JSXParserMixin.parseStatementContent (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12798:21)
+      at JSXParserMixin.parseStatementLike (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12767:17)
+      at JSXParserMixin.parseStatementListItem (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12747:17)
+      at JSXParserMixin.parseBlockOrModuleBlockBody (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:13316:61)
+      at JSXParserMixin.parseBlockBody (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:13309:10)
+      at JSXParserMixin.parseBlock (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:13297:10)
+      at JSXParserMixin.parseFunctionBody (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12100:24)
+      at JSXParserMixin.parseArrowExpression (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12075:10)
+      at JSXParserMixin.parseParenAndDistinguishExpression (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11687:12)
+      at JSXParserMixin.parseExprAtom (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11331:23)
+      at JSXParserMixin.parseExprAtom (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:4764:20)
+      at JSXParserMixin.parseExprSubscripts (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11081:23)
+      at JSXParserMixin.parseUpdate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11066:21)
+      at JSXParserMixin.parseMaybeUnary (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11046:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10899:61)
+      at JSXParserMixin.parseExprOps (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10904:23)
+      at JSXParserMixin.parseMaybeConditional (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10881:23)
+      at JSXParserMixin.parseMaybeAssign (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10831:21)
+      at c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10800:39
+[2m10:56:08 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\dell\Desktop\New folder (5)\src\components\Navbar.jsx: Expected corresponding JSX closing tag for <nav>. (20:6)
+
+[0m [90m 18 |[31m           [33m<[31m[33m/[31m[33ma[31m[33m>[31m
+ [90m 19 |[31m         [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+[31m[1m>[22m[31m[90m 20 |[31m       [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+ [90m    |[31m       [31m[1m^[22m[31m
+ [90m 21 |[31m     [33m<[31m[33m/[31m[33mnav[31m[33m>[31m
+ [90m 22 |[31m   )
+ [90m 23 |[31m }[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/dell/Desktop/New folder (5)/src/components/Navbar.jsx[39m:20:6
+[33m  18 |            </a>
+  19 |          </div>
+  20 |        </div>
+     |        ^
+  21 |      </nav>
+  22 |    )[39m
+      at constructor (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:365:19)
+      at JSXParserMixin.raise (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:6599:19)
+      at JSXParserMixin.jsxParseElementAt (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:4727:16)
+      at JSXParserMixin.jsxParseElement (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:4749:17)
+      at JSXParserMixin.parseExprAtom (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:4759:19)
+      at JSXParserMixin.parseExprSubscripts (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11081:23)
+      at JSXParserMixin.parseUpdate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11066:21)
+      at JSXParserMixin.parseMaybeUnary (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11046:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10899:61)
+      at JSXParserMixin.parseExprOps (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10904:23)
+      at JSXParserMixin.parseMaybeConditional (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10881:23)
+      at JSXParserMixin.parseMaybeAssign (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10831:21)
+      at c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10800:39
+      at JSXParserMixin.allowInAnd (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12426:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10800:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12493:17)
+      at JSXParserMixin.parseParenAndDistinguishExpression (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11675:28)
+      at JSXParserMixin.parseExprAtom (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11331:23)
+      at JSXParserMixin.parseExprAtom (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:4764:20)
+      at JSXParserMixin.parseExprSubscripts (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11081:23)
+      at JSXParserMixin.parseUpdate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11066:21)
+      at JSXParserMixin.parseMaybeUnary (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11046:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10899:61)
+      at JSXParserMixin.parseExprOps (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10904:23)
+      at JSXParserMixin.parseMaybeConditional (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10881:23)
+      at JSXParserMixin.parseMaybeAssign (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10831:21)
+      at JSXParserMixin.parseExpressionBase (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10784:23)
+      at c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10780:39
+      at JSXParserMixin.allowInAnd (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12421:16)
+      at JSXParserMixin.parseExpression (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10780:17)
+      at JSXParserMixin.parseReturnStatement (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:13142:28)
+      at JSXParserMixin.parseStatementContent (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12798:21)
+      at JSXParserMixin.parseStatementLike (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12767:17)
+      at JSXParserMixin.parseStatementListItem (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12747:17)
+      at JSXParserMixin.parseBlockOrModuleBlockBody (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:13316:61)
+      at JSXParserMixin.parseBlockBody (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:13309:10)
+      at JSXParserMixin.parseBlock (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:13297:10)
+      at JSXParserMixin.parseFunctionBody (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12100:24)
+      at JSXParserMixin.parseArrowExpression (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12075:10)
+      at JSXParserMixin.parseParenAndDistinguishExpression (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11687:12)
+      at JSXParserMixin.parseExprAtom (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11331:23)
+      at JSXParserMixin.parseExprAtom (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:4764:20)
+      at JSXParserMixin.parseExprSubscripts (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11081:23)
+      at JSXParserMixin.parseUpdate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11066:21)
+      at JSXParserMixin.parseMaybeUnary (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11046:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10899:61)
+      at JSXParserMixin.parseExprOps (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10904:23)
+      at JSXParserMixin.parseMaybeConditional (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10881:23)
+      at JSXParserMixin.parseMaybeAssign (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10831:21)
+      at c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10800:39
+[2m10:56:08 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\dell\Desktop\New folder (5)\src\components\Navbar.jsx: Expected corresponding JSX closing tag for <nav>. (20:6)
+
+[0m [90m 18 |[31m           [33m<[31m[33m/[31m[33ma[31m[33m>[31m
+ [90m 19 |[31m         [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+[31m[1m>[22m[31m[90m 20 |[31m       [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+ [90m    |[31m       [31m[1m^[22m[31m
+ [90m 21 |[31m     [33m<[31m[33m/[31m[33mnav[31m[33m>[31m
+ [90m 22 |[31m   )
+ [90m 23 |[31m }[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/dell/Desktop/New folder (5)/src/components/Navbar.jsx[39m:20:6
+[33m  18 |            </a>
+  19 |          </div>
+  20 |        </div>
+     |        ^
+  21 |      </nav>
+  22 |    )[39m
+      at constructor (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:365:19)
+      at JSXParserMixin.raise (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:6599:19)
+      at JSXParserMixin.jsxParseElementAt (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:4727:16)
+      at JSXParserMixin.jsxParseElement (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:4749:17)
+      at JSXParserMixin.parseExprAtom (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:4759:19)
+      at JSXParserMixin.parseExprSubscripts (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11081:23)
+      at JSXParserMixin.parseUpdate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11066:21)
+      at JSXParserMixin.parseMaybeUnary (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11046:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10899:61)
+      at JSXParserMixin.parseExprOps (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10904:23)
+      at JSXParserMixin.parseMaybeConditional (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10881:23)
+      at JSXParserMixin.parseMaybeAssign (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10831:21)
+      at c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10800:39
+      at JSXParserMixin.allowInAnd (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12426:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10800:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12493:17)
+      at JSXParserMixin.parseParenAndDistinguishExpression (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11675:28)
+      at JSXParserMixin.parseExprAtom (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11331:23)
+      at JSXParserMixin.parseExprAtom (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:4764:20)
+      at JSXParserMixin.parseExprSubscripts (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11081:23)
+      at JSXParserMixin.parseUpdate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11066:21)
+      at JSXParserMixin.parseMaybeUnary (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11046:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10899:61)
+      at JSXParserMixin.parseExprOps (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10904:23)
+      at JSXParserMixin.parseMaybeConditional (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10881:23)
+      at JSXParserMixin.parseMaybeAssign (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10831:21)
+      at JSXParserMixin.parseExpressionBase (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10784:23)
+      at c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10780:39
+      at JSXParserMixin.allowInAnd (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12421:16)
+      at JSXParserMixin.parseExpression (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10780:17)
+      at JSXParserMixin.parseReturnStatement (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:13142:28)
+      at JSXParserMixin.parseStatementContent (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12798:21)
+      at JSXParserMixin.parseStatementLike (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12767:17)
+      at JSXParserMixin.parseStatementListItem (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12747:17)
+      at JSXParserMixin.parseBlockOrModuleBlockBody (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:13316:61)
+      at JSXParserMixin.parseBlockBody (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:13309:10)
+      at JSXParserMixin.parseBlock (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:13297:10)
+      at JSXParserMixin.parseFunctionBody (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12100:24)
+      at JSXParserMixin.parseArrowExpression (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12075:10)
+      at JSXParserMixin.parseParenAndDistinguishExpression (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11687:12)
+      at JSXParserMixin.parseExprAtom (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11331:23)
+      at JSXParserMixin.parseExprAtom (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:4764:20)
+      at JSXParserMixin.parseExprSubscripts (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11081:23)
+      at JSXParserMixin.parseUpdate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11066:21)
+      at JSXParserMixin.parseMaybeUnary (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11046:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10899:61)
+      at JSXParserMixin.parseExprOps (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10904:23)
+      at JSXParserMixin.parseMaybeConditional (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10881:23)
+      at JSXParserMixin.parseMaybeAssign (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10831:21)
+      at c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10800:39
+[2m10:56:08 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\dell\Desktop\New folder (5)\src\components\Navbar.jsx: Expected corresponding JSX closing tag for <nav>. (20:6)
+
+[0m [90m 18 |[31m           [33m<[31m[33m/[31m[33ma[31m[33m>[31m
+ [90m 19 |[31m         [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+[31m[1m>[22m[31m[90m 20 |[31m       [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+ [90m    |[31m       [31m[1m^[22m[31m
+ [90m 21 |[31m     [33m<[31m[33m/[31m[33mnav[31m[33m>[31m
+ [90m 22 |[31m   )
+ [90m 23 |[31m }[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/dell/Desktop/New folder (5)/src/components/Navbar.jsx[39m:20:6
+[33m  18 |            </a>
+  19 |          </div>
+  20 |        </div>
+     |        ^
+  21 |      </nav>
+  22 |    )[39m
+      at constructor (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:365:19)
+      at JSXParserMixin.raise (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:6599:19)
+      at JSXParserMixin.jsxParseElementAt (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:4727:16)
+      at JSXParserMixin.jsxParseElement (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:4749:17)
+      at JSXParserMixin.parseExprAtom (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:4759:19)
+      at JSXParserMixin.parseExprSubscripts (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11081:23)
+      at JSXParserMixin.parseUpdate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11066:21)
+      at JSXParserMixin.parseMaybeUnary (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11046:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10899:61)
+      at JSXParserMixin.parseExprOps (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10904:23)
+      at JSXParserMixin.parseMaybeConditional (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10881:23)
+      at JSXParserMixin.parseMaybeAssign (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10831:21)
+      at c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10800:39
+      at JSXParserMixin.allowInAnd (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12426:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10800:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12493:17)
+      at JSXParserMixin.parseParenAndDistinguishExpression (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11675:28)
+      at JSXParserMixin.parseExprAtom (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11331:23)
+      at JSXParserMixin.parseExprAtom (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:4764:20)
+      at JSXParserMixin.parseExprSubscripts (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11081:23)
+      at JSXParserMixin.parseUpdate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11066:21)
+      at JSXParserMixin.parseMaybeUnary (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11046:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10899:61)
+      at JSXParserMixin.parseExprOps (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10904:23)
+      at JSXParserMixin.parseMaybeConditional (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10881:23)
+      at JSXParserMixin.parseMaybeAssign (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10831:21)
+      at JSXParserMixin.parseExpressionBase (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10784:23)
+      at c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10780:39
+      at JSXParserMixin.allowInAnd (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12421:16)
+      at JSXParserMixin.parseExpression (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10780:17)
+      at JSXParserMixin.parseReturnStatement (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:13142:28)
+      at JSXParserMixin.parseStatementContent (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12798:21)
+      at JSXParserMixin.parseStatementLike (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12767:17)
+      at JSXParserMixin.parseStatementListItem (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12747:17)
+      at JSXParserMixin.parseBlockOrModuleBlockBody (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:13316:61)
+      at JSXParserMixin.parseBlockBody (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:13309:10)
+      at JSXParserMixin.parseBlock (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:13297:10)
+      at JSXParserMixin.parseFunctionBody (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12100:24)
+      at JSXParserMixin.parseArrowExpression (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12075:10)
+      at JSXParserMixin.parseParenAndDistinguishExpression (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11687:12)
+      at JSXParserMixin.parseExprAtom (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11331:23)
+      at JSXParserMixin.parseExprAtom (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:4764:20)
+      at JSXParserMixin.parseExprSubscripts (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11081:23)
+      at JSXParserMixin.parseUpdate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11066:21)
+      at JSXParserMixin.parseMaybeUnary (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11046:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10899:61)
+      at JSXParserMixin.parseExprOps (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10904:23)
+      at JSXParserMixin.parseMaybeConditional (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10881:23)
+      at JSXParserMixin.parseMaybeAssign (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10831:21)
+      at c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10800:39
+[2m10:56:08 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\dell\Desktop\New folder (5)\src\components\Navbar.jsx: Expected corresponding JSX closing tag for <nav>. (20:6)
+
+[0m [90m 18 |[31m           [33m<[31m[33m/[31m[33ma[31m[33m>[31m
+ [90m 19 |[31m         [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+[31m[1m>[22m[31m[90m 20 |[31m       [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+ [90m    |[31m       [31m[1m^[22m[31m
+ [90m 21 |[31m     [33m<[31m[33m/[31m[33mnav[31m[33m>[31m
+ [90m 22 |[31m   )
+ [90m 23 |[31m }[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/dell/Desktop/New folder (5)/src/components/Navbar.jsx[39m:20:6
+[33m  18 |            </a>
+  19 |          </div>
+  20 |        </div>
+     |        ^
+  21 |      </nav>
+  22 |    )[39m
+      at constructor (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:365:19)
+      at JSXParserMixin.raise (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:6599:19)
+      at JSXParserMixin.jsxParseElementAt (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:4727:16)
+      at JSXParserMixin.jsxParseElement (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:4749:17)
+      at JSXParserMixin.parseExprAtom (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:4759:19)
+      at JSXParserMixin.parseExprSubscripts (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11081:23)
+      at JSXParserMixin.parseUpdate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11066:21)
+      at JSXParserMixin.parseMaybeUnary (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11046:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10899:61)
+      at JSXParserMixin.parseExprOps (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10904:23)
+      at JSXParserMixin.parseMaybeConditional (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10881:23)
+      at JSXParserMixin.parseMaybeAssign (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10831:21)
+      at c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10800:39
+      at JSXParserMixin.allowInAnd (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12426:12)
+      at JSXParserMixin.parseMaybeAssignAllowIn (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10800:17)
+      at JSXParserMixin.parseMaybeAssignAllowInOrVoidPattern (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12493:17)
+      at JSXParserMixin.parseParenAndDistinguishExpression (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11675:28)
+      at JSXParserMixin.parseExprAtom (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11331:23)
+      at JSXParserMixin.parseExprAtom (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:4764:20)
+      at JSXParserMixin.parseExprSubscripts (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11081:23)
+      at JSXParserMixin.parseUpdate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11066:21)
+      at JSXParserMixin.parseMaybeUnary (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11046:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10899:61)
+      at JSXParserMixin.parseExprOps (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10904:23)
+      at JSXParserMixin.parseMaybeConditional (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10881:23)
+      at JSXParserMixin.parseMaybeAssign (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10831:21)
+      at JSXParserMixin.parseExpressionBase (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10784:23)
+      at c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10780:39
+      at JSXParserMixin.allowInAnd (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12421:16)
+      at JSXParserMixin.parseExpression (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10780:17)
+      at JSXParserMixin.parseReturnStatement (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:13142:28)
+      at JSXParserMixin.parseStatementContent (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12798:21)
+      at JSXParserMixin.parseStatementLike (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12767:17)
+      at JSXParserMixin.parseStatementListItem (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12747:17)
+      at JSXParserMixin.parseBlockOrModuleBlockBody (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:13316:61)
+      at JSXParserMixin.parseBlockBody (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:13309:10)
+      at JSXParserMixin.parseBlock (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:13297:10)
+      at JSXParserMixin.parseFunctionBody (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12100:24)
+      at JSXParserMixin.parseArrowExpression (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:12075:10)
+      at JSXParserMixin.parseParenAndDistinguishExpression (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11687:12)
+      at JSXParserMixin.parseExprAtom (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11331:23)
+      at JSXParserMixin.parseExprAtom (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:4764:20)
+      at JSXParserMixin.parseExprSubscripts (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11081:23)
+      at JSXParserMixin.parseUpdate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11066:21)
+      at JSXParserMixin.parseMaybeUnary (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:11046:23)
+      at JSXParserMixin.parseMaybeUnaryOrPrivate (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10899:61)
+      at JSXParserMixin.parseExprOps (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10904:23)
+      at JSXParserMixin.parseMaybeConditional (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10881:23)
+      at JSXParserMixin.parseMaybeAssign (c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10831:21)
+      at c:\Users\dell\Desktop\New folder (5)\node_modules\@babel\parser\lib\index.js:10800:39
+[2m10:56:31 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/@fs/C:/Users/dell/Desktop/New folder (5)/src/App.jsx[22m
+[2m10:56:32 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/@fs/C:/Users/dell/Desktop/New folder (5)/src/components/Logo.jsx[22m
+[2m11:12:20 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/@fs/C:/Users/dell/Desktop/New folder (5)/src/components/Hero.jsx[22m
+[2m11:12:22 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/@fs/C:/Users/dell/Desktop/New folder (5)/src/components/Navbar.jsx[22m
+[2m11:12:24 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/@fs/C:/Users/dell/Desktop/New folder (5)/src/components/Logo.jsx[22m
+[2m11:12:26 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/@fs/C:/Users/dell/Desktop/New folder (5)/src/components/Logo.jsx[22m
+[2m11:12:27 PM[22m [33m[1m[vite][22m[39m [33mwarning: [33mDuplicate "fill" attribute in JSX element[33m
+58 |          letterSpacing: '-0.5px'
+59 |        }}
+60 |        fill="url(#logoGrad)">
+   |        ^
+61 |        
+62 |          TebVerse
+[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/dell/Desktop/New folder (5)/src/components/Logo.jsx[39m
+[2m11:12:28 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/@fs/C:/Users/dell/Desktop/New folder (5)/src/index.css[22m
+[2m11:13:42 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/@fs/C:/Users/dell/Desktop/New folder (5)/src/components/Logo.jsx[22m
+[2m11:28:03 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/@fs/C:/Users/dell/Desktop/New folder (5)/src/components/Navbar.jsx[22m
+[2m11:29:28 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/@fs/C:/Users/dell/Desktop/New folder (5)/src/components/Navbar.jsx[22m
+[2m11:32:20 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/@fs/C:/Users/dell/Desktop/New folder (5)/src/components/Navbar.jsx[22m
