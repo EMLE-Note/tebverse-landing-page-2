@@ -109,7 +109,9 @@ const Hero = () => {
           style={{ display: 'flex', gap: '1rem', justifyContent: 'center', flexWrap: 'wrap', marginBottom: '5rem' }}
         >
           <a
-            href="#booking"
+            href="https://wa.me/message/AORIBIAVKSD7A1"
+            target="_blank"
+            rel="noopener noreferrer"
             className="btn btn-primary btn-lg"
             style={{ gap: '0.6rem' }}
           >

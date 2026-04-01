@@ -177,7 +177,9 @@ function Revenue() {
 
             {/* Hero CTA Button */}
             <a
-              href="#booking"
+              href="https://wa.me/message/AORIBIAVKSD7A1"
+              target="_blank"
+              rel="noopener noreferrer"
               style={{
                 display: 'inline-flex',
                 alignItems: 'center',
